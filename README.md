@@ -1,6 +1,6 @@
 # Pytágoras  📐
 
-[![Hybridge Education](https://img.shields.io/badge/Hybridge-Education-lightgrey)](https://www.hybridge.education)
+[![Hybridge Education](https://img.shields.io/badge/Hybridge-Education-lightgrey)](https://hybridge.education/en/)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pygame]( https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=pygame&logoColor=white)
 
@@ -14,18 +14,6 @@ A minimalist and elegant geometry puzzle game built with Python and Pygame. Test
   * **Random Colors:** Every new triangle is drawn with a beautiful, random color.
   * **Visual Alerts:** Get instant, clear feedback with on-screen alerts for invalid or impossible inputs.
   * **Sleek Dark Mode:** An eye-pleasing dark mode interface with a grid, inspired by geometry software.
-
------
-
-## 🖼️ How it Looks
-
-Here's a snapshot of the game in action. The clean UI shows the current prompt, your input, and the randomly placed triangles on the grid.
-
-![Inicio](static/Begin.png)
-
-![ERROR](static/ERROR.png)
-
-![End](static/End.png)
 
 -----
 
@@ -82,15 +70,15 @@ To get the game running on your local machine, follow these simple steps.
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/geometric-game.git
-    cd geometric-game
+    git clone https://github.com/jesusvasquezjr3/Pytagoras
+    cd Pytagoras
     ```
 
 2.  **Create a virtual environment (Recommended):**
 
     ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    python -m venv Pytagoras
+    source Pytagoras/bin/activate  # On Windows, use `Pytagoras\Scripts\activate`
     ```
 
 3.  **Install the dependencies:**
@@ -107,6 +95,18 @@ To get the game running on your local machine, follow these simple steps.
 
 -----
 
+## 🖼️ How it Looks
+
+Here's a snapshot of the game in action. The clean UI shows the current prompt, your input, and the randomly placed triangles on the grid.
+
+![Inicio](static/Begin.png)
+
+![ERROR](static/ERROR.png)
+
+![End](static/End.png)
+
+-----
+
 ## 🎮 How to Play
 
 1.  The game will show you the length of a **hypotenuse**.
@@ -116,12 +116,10 @@ To get the game running on your local machine, follow these simple steps.
 5.  A new round begins immediately with a new hypotenuse.
 6.  The game ends when the program can no longer find a free spot to draw the new triangle you've created.
 
-Good luck\! 🍀
-
 -----
 
-## 🛠️ Technologies Used
+## 🛠️ License
 
 Copyright © 2025 Jesús Vásquez - Hybridge Education
 
-Este proyecto es material académico desarrollado como parte del programa educativo de Hybridge Education.
+This project is an academic resource developed as part of the [Hybridge Education](https://hybridge.education/en/). It was developed for the Linear Algebra class in the **Artificial Intelligence Engineering** program.
