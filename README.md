@@ -1,6 +1,6 @@
 # Pytágoras  📐
 
-[![Hybridge Education](https://img.shields.io/badge/Hybridge-Education-lightgrey)](https://hybridge.education/en/)
+[![Hybridge Education](https://img.shields.io/badge/Hybridge-Education-lightgrey)](https://hybridge.education/)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pygame]( https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=pygame&logoColor=white)
 
@@ -122,4 +122,4 @@ Here's a snapshot of the game in action. The clean UI shows the current prompt, 
 
 Copyright © 2025 Jesús Vásquez - Hybridge Education
 
-This project is an academic resource developed as part of the [Hybridge Education](https://hybridge.education/en/). It was developed for the Linear Algebra class in the **Artificial Intelligence Engineering** program.
+This project is an academic resource developed as part of the [Hybridge Education](https://hybridge.education/). It was developed for the Linear Algebra class in the **Artificial Intelligence Engineering** program.
